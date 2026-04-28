@@ -41,9 +41,9 @@ if (totalDespesas > renda) {
     mensagem = "⚠️ Atenção: você gastou mais do que ganhou!";
 } else {
     if (sobra >= renda * 0.3) {
-        mensagem = "✅ Ótimo: boa margem de sobra!";
+        mensagem = "Ótimo: boa margem de sobra!";
     } else {
-        mensagem = "🙂 Ok: dá para melhorar a sobra.";
+        mensagem = "Ok: dá para melhorar a sobra.";
     }
 }
 
