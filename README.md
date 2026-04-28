@@ -5,7 +5,7 @@ Nesta atividade, você dará os primeiros passos com JavaScript, explorando na p
 ## Informações Gerais
 
 - Nome: Icaro Gomes Ferreira
-- Matrícula: 1617455
+- Matrícula: 917016
 
 ## Print do console do navegador
 
