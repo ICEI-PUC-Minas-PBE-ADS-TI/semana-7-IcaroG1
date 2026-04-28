@@ -4,12 +4,12 @@ Nesta atividade, você dará os primeiros passos com JavaScript, explorando na p
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome: Icaro Gomes Ferreira
+- Matrícula: 1617455
 
 ## Print do console do navegador
 
 <<  COLOQUE A IMAGEM AQUI >>
-
+![Resultado no Console](img/image.png)
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo responsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
